@@ -12,7 +12,7 @@ export const ibmPlexSans = IBM_Plex_Sans({
   subsets: ['latin'],
   variable: '--font-main',
   display: 'swap',
-  weight: ['400'],
+  weight: ['400', '700'],
   style: ['normal', 'italic'],
 });
 
