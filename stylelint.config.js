@@ -1,6 +1,6 @@
 module.exports = {
   plugins: ['stylelint-declaration-strict-value'],
-  extends: ['stylelint-config-standard-scss', 'stylelint-config-prettier'],
+  extends: ['stylelint-config-standard-scss'],
   rules: {
     'declaration-no-important': true,
     'selector-max-id': 0,
